@@ -1,2 +1,2 @@
 # client-sever-seed
-Seed: AngularJS + Node.js + Express.js + Gulp
+Seed: AngularJS + Node.js + Express.js + Gulp + Bower
